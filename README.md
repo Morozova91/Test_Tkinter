@@ -52,10 +52,16 @@
 Примеры выполненных работ:
 
 Рисунок: 
+![2025-02-01_11-17-30](https://github.com/user-attachments/assets/c7d1b9c7-d900-4791-8df8-16cd1ca11602)
+
 
 Выпадающий список размеров кисти:
+![2025-02-01_11-17-48](https://github.com/user-attachments/assets/6abdb355-08a4-4bf4-bdf8-a1addb0ae15f)
+
 
 Выбор цвета:
+![2025-02-01_11-17-39](https://github.com/user-attachments/assets/7ad3aaca-23ff-48f7-8b1e-b0e0b82a5c14)
 
 Сохранение рисунка в формате PNG:
+![2025-02-01_11-18-15](https://github.com/user-attachments/assets/29cd7dd1-df17-43c0-b754-5fd23f9df0a3)
 
